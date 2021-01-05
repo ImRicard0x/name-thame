@@ -1,4 +1,6 @@
 # name-thame
+**Theme exclusive for POWERCORD**
+
 * Open index.css and edit line 6 for change Discord name;
 * Edit line 24 in index.css for change Discord Home Button.
 + Print below the features that are changed.
