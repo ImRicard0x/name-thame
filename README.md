@@ -1,5 +1,5 @@
 # name-thame
-**Theme exclusive for POWERCORD, dont work in BetterDiscord!**
+**Theme exclusive for POWERCORD. This theme don't work in BetterDiscord!**
 
 * Open index.css and edit line 6 for change Discord name;
 * Edit line 24 in index.css for change Discord Home Button.
