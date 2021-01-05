@@ -1,0 +1,8 @@
+{
+    "name": "Basic-Change-name",
+    "description": "Basic theme for change Discord Name and Initial Button",
+    "version": "v0.0.1",
+    "author": "Tenebroso",
+    "theme": "index.css",
+    "license": "0x"
+}
