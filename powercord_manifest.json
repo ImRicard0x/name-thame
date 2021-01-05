@@ -1,6 +1,6 @@
 {
     "name": "Basic-Change-name",
-    "description": "Basic theme for change Discord Name and Initial Button",
+    "description": "Basic theme for change Discord Name and Home Button",
     "version": "v0.0.1",
     "author": "Tenebroso",
     "theme": "index.css",
